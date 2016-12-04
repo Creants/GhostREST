@@ -1,0 +1,25 @@
+{
+  "name": "ghostrest",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Creants/GhostREST.git"
+  },
+  "author": "Coins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Creants/GhostREST/issues"
+  },
+  "homepage": "https://github.com/Creants/GhostREST#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.1",
+    "node-restful": "^0.2.5"
+  }
+}
